@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="EG.G5.AR.SEM2.UD.T1.S1.2 Q1" />
+              <option name="title_text" value="EG.G5.AR.SEM2.UD.T1.S1.2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1567,6 +1567,7 @@
             <slidelink slideid="_player.5yZJBl1mu65.6LNgbnFLLQR" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5yZJBl1mu65.5zxgWNfrpZD" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5yZJBl1mu65.6ekZyHwoV1o" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.5yZJBl1mu65.5m77cqfFjVX" displaytext="Pick One" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
